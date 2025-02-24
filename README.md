@@ -50,40 +50,35 @@ Meu nome é Davi Chalfum sou natural de Belo Horizonte tenho 18 anos sou aluno d
     alt="PHP"
     title="PHP"
     width="50px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg
-    " 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 <img
     align= "left"
     alt="Processing"
     title="Processing"
     width="50px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/processing/processing-original.svg
-    " 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/processing/processing-original.svg" 
 />
 <img
     align= "left"
     alt="Pyton"
     title="Pyton"
     width="50px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg
-    " 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img
     align= "left"
     alt="HTML"
     title="HTML"
     width="50px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg
-    " 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img
     align= "left"
     alt="CSS"
     title="CSS"
     width="50px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg
-    " 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <br/>
 <br/>
@@ -100,8 +95,7 @@ Meu nome é Davi Chalfum sou natural de Belo Horizonte tenho 18 anos sou aluno d
         align="left"
         alt="GitHub Stats"
         height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi120906&theme=tokyonight&layout=compact
-        " 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi120906&theme=tokyonight&layout=compact" 
     />
 </p>
 
