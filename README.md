@@ -34,7 +34,7 @@ Meu nome é Davi Chalfum sou natural de Belo Horizonte tenho 18 anos sou aluno d
 <img
     align= "left"
     alt="C#"
-    title="C"
+    title="C#"
     width="50px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
@@ -94,8 +94,7 @@ Meu nome é Davi Chalfum sou natural de Belo Horizonte tenho 18 anos sou aluno d
         alt="Github Stats"
         height="200"
         style="padding-right: 10px;"
-        src="https://github-readme-stats.vercel.app/api?username=Davi120906&show_icons=true&theme=tokyonight&locale=pt-br&hide_rank=true
-        " 
+        src="https://github-readme-stats.vercel.app/api?username=Davi120906&show_icons=true&theme=tokyonight&locale=pt-br&hide_rank=true" 
     />
     <img
         align="left"
