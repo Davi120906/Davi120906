@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👨‍💻 Davi Chalfum 
+**`Estagiario em desenvolvimento de sistemas`**
 
-<!--
-**Davi120906/Davi120906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Davi Chalfum sou natural de Belo Horizonte tenho 18 anos sou aluno do terceiro ano do COLTEC, estou cursando Desenvolvimento de sistemas, estou 
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/davi-chalfum-073857224/" target="_blank">
+   <img alt="LinkedIn Profile" title="Meu perfil no linkedin"
+        src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:davichalfum@gmail.com">
+   <img src="https://img.shields.io/badge/Email-Enviar%20Email-red?logo=gmail&style=for-the-badge" alt="Email">
+</a>
+<a href="tel:+SEUNUMERO">
+   <img src="https://img.shields.io/badge/Ligar-Me%20Ligue-blue?logo=phone&style=for-the-badge" alt="Telefone">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
