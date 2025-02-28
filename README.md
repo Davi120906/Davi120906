@@ -3,7 +3,7 @@
 
 Meu nome é Davi Chalfum sou natural de Belo Horizonte tenho 18 anos sou aluno do terceiro ano do **COLTEC** do curso de Desenvolvimento de sistemas
 
-<a href="https://www.linkedin.com/in/davi-chalfum-073857224/" target="_blank">
+<a href="https://www.linkedin.com/in/davichalfum" target="_blank">
    <img alt="LinkedIn Profile" title="Meu perfil no linkedin"
         src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
