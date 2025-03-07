@@ -10,9 +10,6 @@ Meu nome é Davi Chalfum sou natural de Belo Horizonte tenho 18 anos sou aluno d
 <a href="mailto:davichalfum@gmail.com">
    <img src="https://img.shields.io/badge/Email-Enviar%20Email-red?logo=gmail&style=for-the-badge" alt="Email">
 </a>
-<a href="https://wa.me/31971423705" target="_blank">
-   <img src="https://img.shields.io/badge/WhatsApp-Enviar%20Mensagem-25D366?logo=whatsapp&style=for-the-badge" alt="WhatsApp">
-</a>
 
 ---
 ### 🤖 **Linguagens e Tecnologias**
