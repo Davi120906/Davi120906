@@ -84,6 +84,7 @@ Meu nome é Davi Chalfum sou natural de Belo Horizonte tenho 18 anos sou aluno d
     title="CSS"
     width="50px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
 <br/>
 <br/>
 ## 📊 Estatísticas
