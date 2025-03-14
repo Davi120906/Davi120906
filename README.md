@@ -26,7 +26,7 @@ Meu nome é Davi Chalfum sou natural de Belo Horizonte tenho 18 anos sou aluno d
     alt="Spring"
     title="Spring"
     width="50px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.svg" 
 />
 <img
     align= "left"
